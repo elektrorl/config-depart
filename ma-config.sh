@@ -108,3 +108,12 @@ curl -L http://install.ohmyz.sh | sh
 echo ""
 echo "Exécution du script os x Awesome ~ Happy Hacking ~"
 ./custom-osx-awesome.sh
+
+
+#
+# Exécution du script os x Awesome ~ Happy Hacking ~
+#
+echo ""
+echo "Replace with good dotfiles"
+cp ./.zshrc ~/
+
