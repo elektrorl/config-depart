@@ -85,3 +85,7 @@ alias showfiles='defaults write com.apple.finder AppleShowAllFiles YES; killall 
 
 # HIDEFILES
 alias hidefiles='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app'
+
+
+#z for autojump
+source ~/.bin/z/z.sh
