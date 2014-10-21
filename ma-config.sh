@@ -114,6 +114,6 @@ echo "Exécution du script os x Awesome ~ Happy Hacking ~"
 # Exécution du script os x Awesome ~ Happy Hacking ~
 #
 echo ""
-echo "Replace with good dotfiles"
+echo "Replace with dotfiles"
 cp ./.zshrc ~/
 
