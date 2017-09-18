@@ -31,40 +31,22 @@ brew install imagemagick
 #
 # ORL's config.
 #
-brew cask install iterm
-brew cask install xquartz
+brew cask install iterm2
 brew cask install virtualbox
 brew cask install evernote
-brew cask install google-chrome-canary
 brew cask install skype
 brew cask install vlc
 brew cask install plex-media-server
-brew cask install spotify
-brew cask install dropbox
-brew cask install dropbox-encore
-brew cask install the-unarchiver
-brew cask install renamer
-brew cask install bittorrent-sync
-brew cask install bitcasa
-brew cask install github
-brew cask install vagrant
-brew cask install vagrant-bar
-brew cask install vagrant-manager
+brew cask install dropbox dropbox-encore the-unarchiver
+brew cask install renamer bittorrent-sync bitcasa github vagrant vagrant-manager
 brew cask install xmarks-safari
 brew cask install mou
 brew cask install miro-video-converter
 brew cask install onyx
-brew cask install adobe-creative-cloud
 brew cask install alfred
 brew cask install appcleaner
 brew cask install plex-home-theater
-brew cask install fluid
-brew cask install backuploupe
-brew cask install bettertouchtool
-brew cask install capo
-brew cask install coda
-brew cask install colloquy
-brew cask install sublime-text 
+ 
 brew cask install copy 
 brew cask install mediafire-desktop 
 brew cask install filebot 
